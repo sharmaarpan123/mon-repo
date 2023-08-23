@@ -11,6 +11,7 @@ export default function App() {
       {/*Output the site title and subtitle to the screen*/}
       <header className="App-header">
         <h1>{siteInfo.title}</h1>
+    <h1>Digvijay rana</h1>
         <p>{siteInfo.subtitle}</p>
       </header>
     </div>
